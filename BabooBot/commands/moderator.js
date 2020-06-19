@@ -1,0 +1,1 @@
+module.exports = "Pogerator"; //NAME OF MODERATOR ROLE HERE

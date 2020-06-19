@@ -1,0 +1,4 @@
+cd into folder these files are placed in using windows terminal
+type index.js
+bot is started
+ctrl c to make it stop
